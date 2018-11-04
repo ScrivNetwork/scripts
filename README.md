@@ -1,6 +1,6 @@
 ## SCRIV coin masternode installation script
 
-Please, refer to [Github Wiki](https://github.com/ScrivNetwork/scriv/wiki/Generate-an-address) for wallet working practices.
+Please, refer to [Github Wiki](https://github.com/ScrivNetwork/scriv/wiki) for wallet working practices.
 
 ### Use [Cold Automatic Wallet Guide](https://github.com/ScrivNetwork/scriv/wiki/SCRIV-Semi-Auto-Masternode-Setup-Guide-COLD-WALLET) for cold masternode installation.
 
